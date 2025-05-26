@@ -9,7 +9,7 @@ size: 16:9
 paginate: true
 ---
 
-![bg](https://cdn-images-1.medium.com/max/1024/1*cTcqAst5m1Vn6k71VWgTrQ.gif)
+![bg](https://cdn-images-1.medium.com/max/1024/1*FTpRgnrZGMzzCjEl4sCmiw.png)
 
 ---
 
@@ -207,5 +207,110 @@ paginate: true
 
 ---
 
-Thank You!
+# Google Play 個人帳戶浪費了我 42 天的人生 😫
+
+這是一位 solo 開發者在 Google Play 發布 App 的慘痛經歷。
+
+使用個人帳戶：**重大錯誤**
+
+- 第一次嘗試：
+  - 等待驗證 (14 天)
+  - 預驗證 (5 天)
+  - 找 12 位測試者
+  - 最終審查 (14 天)
+- 結果：App 被拒絕，原因不明。
+
+---
+
+# Google Play 個人帳戶浪費了我 42 天的人生 😫
+
+- 反覆修改、提交、被拒絕，耗時 **3 個月**。
+- **解決方案**：
+  - 朋友建議使用 **企業帳戶**。
+  - 支付 $25，使用企業帳戶上傳**同一個 App**。x
+  - **3 天內通過審核**，無需修改！
+> **給開發者的建議：**
+> 1. 跳過個人帳戶。
+> 2. 企業帳戶費用相同 ($25)。
+> 3. Google 更認真對待企業帳戶。
+> 4. 節省你的時間和精力。
+
+<footer>[文章連結](https://www.reddit.com/r/FlutterDev/comments/1kr5i7z/google_play_personal_account_wasted_42_days_of_my/)</footer>
+
+---
+
+# Rockstar Games 正在招募 Flutter 工程師！
+
+> 「只是另一個證明 Flutter 已經死了的證據。」
+
+<footer>[文章連結](https://www.reddit.com/r/FlutterDev/comments/1kgxwro/in_case_if_you_missed_it_rockstar_games_in/)</footer>
+
+---
+
+# 🔥 我整理了 80 個 Flutter 技巧到一個網頁上
+
+- 過去 3 年，我累積了 250 多個 Flutter 技巧。
+- 定期在 X 和 LinkedIn 分享。
+- 應要求，現在這些技巧可在網頁上閱讀：
+
+[點此閱讀所有技巧](https://apparencekit.dev/flutter-tips/)
+
+- 其他技巧將陸續加入。
+
+<footer>[文章連結](https://www.reddit.com/r/FlutterDev/comments/1klhp49/i_compiled_80_flutter_tips_into_a_web_page/)</footer>
+
+---
+
+# NotebookLM 是用 Flutter 開發的！
+
+- NotebookLM 不是一個小型或基礎的 App。
+- 它是 Gemini 平台的核心應用之一 🤓！
+- [@FlutterDev 在 X 的貼文](https://x.com/FlutterDev/status/1924884357371568570?t=eehL-81jyC8-2GQatxf7tw&s=09)
+- [Facebook Group 討論](https://www.facebook.com/groups/flutter.taipei/posts/4098063067127286/)
+
+<footer>[文章連結](https://www.reddit.com/r/FlutterDev/comments/1ks2f64/notebooklm_was_made_with_flutter/)</footer>
+
+---
+
+# 在 2025 年，Flutter 仍然是桌面應用程式的安全選擇嗎？
+
+- Flutter 路線圖顯示 Google 更專注於行動和網頁平台。
+- 桌面支援似乎主要由 Canonical 推動。
+
+---
+
+# 在 2025 年，Flutter 仍然是桌面應用程式的安全選擇嗎？
+
+- 考慮 Flutter 跨平台桌面開發 (Windows/macOS/Linux)，它仍是未來可行的選擇嗎？
+- 喜歡 Flutter 的開發體驗，但擔心非行動平台的長期支援。
+- **正在開發桌面應用程式的開發者怎麼看？** 是全力投入 Flutter 還是關注 Electron 或原生開發？
+
+> **側記：**
+> 提及正在開發的工具 [Dualite Alpha](https://www.dualite.dev/)，可將 Figma 設計轉換為前端程式碼。
+> 這突顯了不同框架產生的程式碼結構差異，顯示技術領域的碎片化。
+
+<footer>[文章連結](https://www.reddit.com/r/FlutterDev/comments/1kq7jzx/is_flutter_still_a_safe_bet_for_desktop_apps_in/)</footer>
+
+---
+
+# 宣布 Appwrite Sites - 開源的 Vercel 替代方案，完全支援建立和部署 Flutter Web 🚀
+
+- Appwrite 團隊發布新產品 Appwrite Sites。
+- 允許在 Appwrite 內部部署和託管網站和網頁應用程式。
+- 完全原生支援建立、託管和擴展任何 Flutter Web App。
+- 所有功能 (靜態網站、SSR App、資料庫、驗證、儲存、訊息、無伺服器函數) 都在一個地方。
+
+<footer>[文章連結](https://www.reddit.com/r/FlutterDev/comments/1kr4uls/announcing_appwrite_sites_the_open_source_vercel/)</footer>
+
+---
+
+# Thank You!
+
+<br />
+<br />
+
+###### 本投影片採用
+![width:60px](./img/by-sa.png) <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" target="_blank">創用 CC「姓名標示-相同方式分享 4.0 國際」授權條款</a>釋出
+![width:60px](./img/marp.svg) <a href="https://marp.app/" target="_blank">Marp</a> 製作
+
 ---
