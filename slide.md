@@ -378,6 +378,30 @@ paginate: true
 [文章連結](https://www.reddit.com/r/FlutterDev/comments/1kr4uls/announcing_appwrite_sites_the_open_source_vercel/)
 
 ---
+# 來自英國企鵝對 Flutter Web 的怨念
+
+- Flutter 在行動開發上表現出色，但在網頁端卻是場「噩夢」
+- 作者強烈質疑 Flutter Web 的存在意義
+
+[文章連結](https://suica.dev/zh/blogs/fuck-off-flutter-web%2C-unless-you-slept-through-school%2C-you-know-flutter-web-is-a-bad-idea)
+
+---
+
+# Flutter Web 的主要缺點
+
+- 生態系統限制: 無法利用龐大的 JavaScript 生態。
+- 效能優化不足: 難以實施靜態站點生成 (SSG)、串流、伺服器端渲染 (SSR) 等網頁最佳化。
+- SEO 挑戰: 對搜尋引擎優化支援度差，影響網站可見度。
+- 網頁特定功能欠缺: 難以實作高級日誌和瀏覽器特定 API。
+- 開發體驗不佳: 調試器、熱重載和字體渲染不如行動端。
+- 組件適應性差: 內建組件主要為行動設備設計，桌面/網頁適配性差。
+- 複雜組件實現困難: 表單、數據表、圖表等複雜網頁組件難以有效實作。
+- 上下文管理問題: 在傳統桌面佈局中上下文管理變得更糟。
+- WASM 支援不足: 需要下載 WebAssembly (WASM) 運行環境，目前版本支援度低。
+- 第三方庫限制: 大多數第三方庫仍以行動設備為主，部分不支持 WASM。
+- 響應式設計挑戰: 在 Flutter 中管理響應式設計非常困難。
+
+___
 
 # Thank You!
 
@@ -385,5 +409,5 @@ paginate: true
 <br />
 
 ###### 本投影片採用
-![width:60px](./image/by-sa.png) <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" target="_blank">創用 CC「姓名標示-相同方式分享 4.0 國際」授權條款</a>釋出
+![width:60px](./image/by-sa.png) <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" target="_blank">創用 CC「姓名標示-相同方式分享 4.0 國際」授權條款</a> 釋出
 ![width:60px](./image/marp.svg) <a href="https://marp.app/" target="_blank">Marp</a> 製作
