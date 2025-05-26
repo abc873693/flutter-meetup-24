@@ -9,9 +9,74 @@ size: 16:9
 paginate: true
 ---
 
+# Flutter 小聚 #24
+
+![bg](./image/cover.png)
+
+---
+
+# 小聚說明
+
+- 主辦社群: **GDG Taipei**、**Flutter Taipei**
+- 原則上一個月會舉辦一次，時間會在當月**最後一週的週二**
+- 地點：**天攏書局 2F**
+- 活動主要會分成
+  - 當月 Flutter 大小事: 介紹當月 Flutter 相關的大小事
+  - 開發者經驗分享: 分享與 Flutter 開發的相關內容，題目不限，可洽志工報名
+  - Lightning Talk: 現場/活動事前表單報名，在場有任何想法，可洽志工報名
+  - 活動任何問題都可以透過 **Slido** 發問
+- 小聚任何行為都參照 GDG 台灣 行為準則 https://gdg.tw/code_of_conduct/
+- 下次小聚時間：**2025/05/22**
+
+---
+
+![bg width:75%](./image/gdg-taipei.jpeg)
+
+![bg width:80%](./image/gdg-taipei-qr.png)
+
+---
+
+![bg width:90%](./image/flutter-taipei.avif)
+
+![bg width:80%](./image/flutter-taipei-qr.png)
+
+---
+
+# Google I/O Extended 2025 Taipei @Google 板橋辦公室
+
+![width:80%](./image/IOE25.webp)
+
+---
+
+# Flutter Taipei 每月月報
+
+![width:80%](./image/medium-post.jpeg)
+
+---
+
+# 上台分享可獲得一個 Pin 針 及 帽子
+
+![bg width:75% right ](./image/sharing-swag.jpeg)
+
+---
+
+# Slido
+
+![bg width:75% right](./image/slido.png)
+
+---
+
 # Flutter 五月大小事
 
 ## Rainer Fang 
+
+---
+
+# Rainer Fang 
+
+- GDG Taipei Organizer
+- Flutter Taipei Organizer
+- 專注於 Flutter 的行動應用開發者
 
 ---
 
